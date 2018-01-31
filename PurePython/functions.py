@@ -10,6 +10,6 @@ def changeval(str):
     str = str + 'str'
     return str
 
-strval = 'naresh'
+strval = '123'
 strval = changeval(strval)
 print(strval)
