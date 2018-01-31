@@ -8,6 +8,7 @@ print(my_tuple+('naresh','kumar'))
 my_tuple1 = ('testing','')
 print(my_tuple + my_tuple1)
 
+
 print(my_tuple1*2)
 
 print(my_tuple[-1])
